@@ -75,7 +75,7 @@ export function HomeScreen() {
             <Card className="h-full hover:shadow-lg transition-shadow">
               <CardContent className="p-4 flex flex-col items-center justify-center">
                 <MessageSquare className="h-8 w-8 text-blue-600 mb-2" />
-                <span className="text-center font-medium">{t("home.chat")}</span>
+                <span className="text-center font-medium">Translate</span>
               </CardContent>
             </Card>
           </Link>
