@@ -13,7 +13,7 @@ export const attractions: Attraction[] = [
       am: "በምድር ላይ ካሉት ታላላቅ የዱር እንስሳት መመልከቻ ቦታዎች አንዱ - የቀንድ ፍየሎችና የዚብራዎች ታላቁ ፍልሰት። ሰረንጌቲ የታንዛኒያ ቀደምት እና ታዋቂ ብሔራዊ ፓርክ ነው።",
       sw: "Nyumbani kwa mandhari kubwa zaidi ya wanyamapori duniani - Uhamiaji Mkuu wa nyumbu na punda milia. Serengeti ni hifadhi ya taifa ya zamani zaidi na maarufu zaidi ya Tanzania.",
     },
-    image: "/images/Serengeti National Park.avif",
+    image: "/images/SerengetiNationalPark.avif",
     location: "Tanzania",
     country: "Tanzania",
     city: "Arusha",

@@ -146,6 +146,7 @@ export function RecommendationsList() {
               const title = attraction.title[language as keyof typeof attraction.title] || attraction.title.en
               const description =
                 attraction.description[language as keyof typeof attraction.description] || attraction.description.en
+                console.log(attraction)
 
               return (
                 <Card key={attraction.id} className="overflow-hidden">
