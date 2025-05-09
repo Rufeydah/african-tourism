@@ -7,7 +7,7 @@ export default function CulturePage() {
       category="culture"
       attractions={attractions.filter((a) => a.category === "culture")}
       description="Immerse yourself in Africa's rich cultural tapestry, where ancient traditions blend with contemporary expressions. Experience vibrant festivals, traditional ceremonies, authentic village life, and the warm hospitality that makes African cultures so unique and captivating."
-      image="/placeholder.svg?height=500&width=1000"
+      image="https://img.freepik.com/free-psd/beautiful-leaves-isolated_23-2150114772.jpg?semt=ais_hybrid&w=740"
     />
   )
 }

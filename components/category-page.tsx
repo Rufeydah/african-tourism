@@ -53,13 +53,13 @@ export function CategoryPage({ category, attractions, description, image }: Cate
   const getCategoryImage = () => {
     switch (category) {
       case "nature":
-        return "/images/nature-category.png"
+        return "/images/nature.png"
       case "culture":
-        return "/images/culture-category.png"
+        return "/images/cultur.png"
       case "history":
-        return "/images/history-category.png"
+        return "/images/history.png"
       case "food":
-        return "/images/food-category.png"
+        return "/images/food.png"
       default:
         return image
     }
