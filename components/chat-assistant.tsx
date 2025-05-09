@@ -63,7 +63,7 @@ export function ChatAssistant() {
   return (
     <div className="container mx-auto px-4 py-8 max-w-md">
       <div className="flex justify-between items-center mb-6">
-        <h1 className="text-2xl font-bold text-blue-800 dark:text-blue-300">{t("home.chat")}</h1>
+        <h1 className="text-2xl font-bold text-blue-800 dark:text-blue-300">Translate</h1>
         <Link href="/">
           <Button variant="outline" size="sm">
             Back
